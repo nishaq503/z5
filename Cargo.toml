@@ -1,0 +1,15 @@
+[package]
+name = "z5"
+version = "0.0.1"
+authors = ["Najib Ishaq <najib_ishaq@zho.com>"]
+edition = "2021"
+license = "Apache-2.0"
+description = "An implementation of the zarr and n5 file formats."
+homepage = "https://github.com/nishaq503/z5"
+documentation = "https://docs.rs/z5"
+repository = "https://github.com/nishaq503/z5"
+readme = "README.md"
+keywords = ["zarr", "n5", "tensor"]
+categories = ["encoding", "filesystem", "science"]
+
+[dependencies]
